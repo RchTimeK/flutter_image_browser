@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_image_browser/widgets/home_grid.dart';
 import 'package:flutter_image_browser/widgets/home_image.dart';
 import 'package:flutter_image_browser/widgets/home_video.dart';
-import 'package:flutter_image_browser/widgets/image_drag.dart';
 
 void main() {
   runApp(const MyApp());

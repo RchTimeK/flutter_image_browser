@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_image_browser/drag_widgets/drag_gesture_detector.dart';
-import 'package:flutter_image_browser/widgets/image_drag.dart';
 class ImageBrowserPage extends StatefulWidget {
   const ImageBrowserPage({
     Key? key,
